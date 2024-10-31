@@ -1,5 +1,7 @@
 # RoboSub 2024
 
+![goodRunVideo](/Users/mayahirsch/Desktop/sirSwimsALotDesktop.nosync/RoboSub2024-portfolio/videos/goodRunLowQuality.mp4)
+
 ## Description
 Leading my high school robotics team to a successful rookie year at an international autonomous underwater vehicle robotics competition.
 
