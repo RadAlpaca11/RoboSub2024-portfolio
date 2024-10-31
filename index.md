@@ -1,6 +1,6 @@
 # RoboSub 2024
 
-<video src="videos/goodRunLowQuality.mp4" width="320" height="240" controls></video>
+<video src="videos/goodRunLowQuality.mp4" width="400" height="300" controls></video>
 
 ## Description
 Leading my high school robotics team to a successful rookie year at an international autonomous underwater vehicle robotics competition.
