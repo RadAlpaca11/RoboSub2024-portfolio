@@ -28,7 +28,9 @@ We figured it out 2 days before we left for the competition.
 Almost all of our code was written on the plane to California, or at the competition.
 
 ## The competition
-
+We were able to get some pool testing in at a team member's relative's house the day before the competition started, where we wrote the code we believed would get us qualified.
+The first day of the competition we qualified on our first try!
+It was surreal and one of the best feeling's I've ever felt.
 
 ## The robot
 
