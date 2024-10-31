@@ -4,49 +4,36 @@
 
 
 ## Description
-Leading my high school robotics team to a successful rookie year at an international autonomous underwater vehicle robotics competition.
+As captain, leading my high school robotics team through a successful rookie year competing at an international collegiate autonomous underwater vehicle robotics competition.
 
 ## Outcome
-Our goal was to qualify at the competition.
-Our team placed 13th overall out of 41 teams from around the world, making it past the semi-finals to the third chance playoffs, ahead of universities including Stanford, Harvey Mudd, UCLA, and more.
-We also won Rookie of the Year.
+Since this was our first year and we were competing against some of the top universities around the world, our team goal was simply to qualify at the competition.  We accomplished that on the first day.
+
+
+During the remaining 5 days of the competition, we continued to improve our robot’s autonomous performance (including dealing with a few component failures), eventually placing 13th overall out of 41 teams.  We made it past the semi-finals to the third chance playoff round and ultimately beat some big name schools including Stanford, Harvey Mudd, UCLA, and more.  
+
+
+And to round out an amazing experience and team performance, we won Rookie of the Year!
 
 ***A picture of the competition director Dave and I, with the Rookie of the Year check:***
 
 ![Picture with Dave](/images/haydenDaveAndCheck.jpg)
 
 ## The leadup
-We began meeting in January, a robot kit was purchased in March, we didn't get batteries until May, and the robot didn't even touch water until June, after school was out for summer.
+Leading the development of our competition robot required managing an extremely compressed timeline. After receiving our robot kit in March, batteries in May, and achieving our first water test in June after school ended, we faced significant technical challenges throughout the summer. As team captain, I led all the troubleshooting activities, tackled some critical technical hurdles, and coordinated regular testing sessions at local pools.
 
-There was a lot of work to be done over the summer. We didn't know how to control the robot, and even if we did, it wasn't competition legal yet.
-Over the summer I had to coordinate testing sessions at local pools, and making sure things were moving forward with the robot.
+Since the robot would operate autonomously, we had to install a kill switch to be competition-legal. After researching and selecting appropriate components, I discovered an error in the manufacturer's installation documentation. Working alongside a teammate, we initially followed the instructions but the kill switch didn’t work. Through methodical troubleshooting and direct collaboration with the manufacturer's engineering team, I identified their documentation showed the wiring backwards. The company confirmed the error and provided replacement parts.
 
-One of the things we needed to do to make the robot competition legal was the addition of a kill switch. 
-There were specific guidelines on how the switch had to work, and after a lot of research we purchased a kit that would work.
-When installing the switch I noticed that the instructions seemed off, it looked like the wires were reversed.
-I was installing it with another team member and we decided to just trust the instructions. 
-It didn't work, so I had to do a ton of troubleshooting, and called tech support for the company we purchased the kit from. 
-I was able to talk to an engineer and explain to him that I believed there was an error in their instructions.
-They were supper appreciative of me pointing out the mistake and sent us replacement parts.
+The week before competition presented our biggest technical obstacle: we still couldn't reliably control the robot's motors. The Python library documentation for our robot kit contained errors and unclear instructions. I led daily coding and testing sessions to solve this fundamental challenge. We achieved reliable motor control just two days before competition, completing the majority of our autonomous control code during our flight to California and at the competition site. Despite these time constraints and technical setbacks, we delivered a fully functional autonomous underwater vehicle that exceeded our initial competition goals.
 
-The week leading up to the competition, we still had no idea how to control the motors on the robot.
-The python library documentation for the robot kit we were using was confusing, and actually wrong in some places.
-This week involved hours of coding and out of water testing each day just to activate a single motor reliably. 
-We figured it out 2 days before we left for the competition.
-Almost all of our code was written on the plane to California, or at the competition.
 
 ## The competition
-We were able to get some pool testing in at a team member's relative's house the day before the competition started, where we wrote the code we believed would get us qualified.
-The first day of the competition we qualified on our first try!
-It was surreal and one of the best feeling's I've ever felt.
+We did some pool testing the day before the competition started, where we wrote the code we believed would get us qualified. Then, on the first day of the competition, we qualified on our first try! It was surreal and one of the best feelings I’ve ever felt. 
 
-The next few days were filled with early mornings, testing the robot, modifying code, fixing bugs, lots of ice cream, and late nights.
-We went the direction of building our own code library to make the main code easier to edit, which meant when we made changes it could really screw things up (it didn't help that we were extremely sleep deprived).
+The next several days were filled with early mornings, testing the robot, modifying code, fixing bugs, late nights, little sleep, and lots of ice cream to keep us going.
 
-We were able to score high enough in our semi-final runs to move on to the third chance playoffs, which would give us a chance at a wildcard slot in the finals.
-Sadly we didn't make it past that, but we made it way further than we ever hoped.
+Having qualified, we advanced to the semi-finals. Our semi-final run, unfortunately, didn’t score enough to secure a spot in the finals, but we did score enough points to get a spot in the third chance playoffs to compete for a wildcard spot in the finals. The following day, that run, while successful, did not earn us enough points to get to the finals.  Alas, our RoboSub 2024 run had come to an end, but an end MUCH further than we had ever hoped. 
 
-The competition experience was something I will never forget.
-The environment was so fun, and we were able to talk to professionals, even showing our code to the author of the library we were using, and pointing out the mistakes in their documentation.
+The competition was an incredible experience I will never forget. The environment was so fun, all the other schools were so supportive of us, and we were even able to talk to industry professionals including the lead developer of the the library we were using. We got a chance to show him our work and to (politely) point out where their documentation was incorrect. 
 
-Hearing our team's name said when announcing places or awards was incredible, and I can't wait to do it again in 2025.
+And finally, hearing our team’s name announced as the Rookie of the Year was the cherry on top. We are already working towards RoboSub 2025 and I can’t wait.
