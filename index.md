@@ -21,6 +21,12 @@ It didn't work, so I had to do a ton of troubleshooting, and called tech support
 I was able to talk to an engineer and explain to him that I believed there was an error in their instructions.
 They were supper appreciative of me pointing out the mistake and sent us replacement parts.
 
+The week leading up to the competition, we still had no idea how to control the motors on the robot.
+The python library documentation for the robot kit we were using was confusing, and actually wrong in some places.
+This week involved hours of coding and out of water testing each day just to activate a single motor reliably. 
+We figured it out 2 days before we left for the competition.
+Almost all of our code was written on the plane to California, or at the competition.
+
 ## The competition
 
 
