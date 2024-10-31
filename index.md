@@ -32,5 +32,8 @@ We were able to get some pool testing in at a team member's relative's house the
 The first day of the competition we qualified on our first try!
 It was surreal and one of the best feeling's I've ever felt.
 
+The next few days were filled with early mornings, testing the robot, modifying code, fixing bugs, lots of ice cream, and late nights.
+We went the direction of building our own code library to make the main code easier to edit, which meant when we made changes it could really screw things up (it didn't help that we were extremely sleep deprived).
+
 ## The robot
 
