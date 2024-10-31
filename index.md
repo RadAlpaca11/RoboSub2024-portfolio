@@ -4,7 +4,8 @@
 Leading my high school robotics team to a successful rookie year at an international autonomous underwater vehicle robotics competition.
 
 ## Outcome
-Our team placed 13th overall, making it past the semi-finals to the third chance playoffs, ahead of universities including Stanford, Harvey Mudd, UCLA, and more.
+Our goal was to qualify at the competition.
+Our team placed 13th overall out of 41 teams from around the world, making it past the semi-finals to the third chance playoffs, ahead of universities including Stanford, Harvey Mudd, UCLA, and more.
 We also won Rookie of the Year.
 
 ## The leadup
@@ -34,6 +35,9 @@ It was surreal and one of the best feeling's I've ever felt.
 
 The next few days were filled with early mornings, testing the robot, modifying code, fixing bugs, lots of ice cream, and late nights.
 We went the direction of building our own code library to make the main code easier to edit, which meant when we made changes it could really screw things up (it didn't help that we were extremely sleep deprived).
+
+We were able to score high enough in our semi-final runs to move on to the third chance playoffs, which would give us a chance at a wildcard slot in the finals.
+Sadly we didn't make it past that, but we made it way further than we ever hoped.
 
 ## The robot
 
