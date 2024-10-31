@@ -11,6 +11,10 @@ Our goal was to qualify at the competition.
 Our team placed 13th overall out of 41 teams from around the world, making it past the semi-finals to the third chance playoffs, ahead of universities including Stanford, Harvey Mudd, UCLA, and more.
 We also won Rookie of the Year.
 
+***A picture of the competition director Dave and I, with the Rookie of the Year check:***
+
+![Picture with Dave](/images/haydenDaveAndCheck.jpg)
+
 ## The leadup
 We began meeting in January, a robot kit was purchased in March, we didn't get batteries until May, and the robot didn't even touch water until June, after school was out for summer.
 
