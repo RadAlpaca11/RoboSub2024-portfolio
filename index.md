@@ -39,5 +39,7 @@ We went the direction of building our own code library to make the main code eas
 We were able to score high enough in our semi-final runs to move on to the third chance playoffs, which would give us a chance at a wildcard slot in the finals.
 Sadly we didn't make it past that, but we made it way further than we ever hoped.
 
-## The robot
+The competition experience was something I will never forget.
+The environment was so fun, and we were able to talk to professionals, even showing our code to the author of the library we were using, and pointing out the mistakes in their documentation.
 
+Hearing our team's name said when announcing places or awards was incredible, and I can't wait to do it again in 2025.
