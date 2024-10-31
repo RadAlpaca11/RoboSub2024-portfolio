@@ -2,6 +2,7 @@
 ***One of our competition runs:***
 <video src="videos/goodRunLowQuality.mp4" width="100%" controls></video>
 
+
 ## Description
 Leading my high school robotics team to a successful rookie year at an international autonomous underwater vehicle robotics competition.
 
