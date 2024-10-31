@@ -1,0 +1,15 @@
+remote_theme: BDHU/minimalist
+highlighter: rogue
+
+title: Table of Contents
+
+
+descriptionTitle: Description
+finalTitle: Final deliverable
+needTitle: The need
+approachTitle: The approach
+prototypeTitle: Prototyping
+
+projectBy: Project by Hayden Hirsch
+projectSchool: Gibson Ek High School
+livereload: True
